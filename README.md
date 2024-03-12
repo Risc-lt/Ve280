@@ -1,5 +1,5 @@
 # UM-JI Ve280
-# CourseDescription:
+# Course Description:
 
 This course is an **introduction to programming** and provides a **foundation for data structures**.
 
